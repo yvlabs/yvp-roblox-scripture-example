@@ -1,5 +1,12 @@
 # Scripture Kiosk: a YouVersion Platform example for Roblox
 
+### ▶ [Play Scripture Kiosk on Roblox](https://www.roblox.com/games/82686984547483/Scripture-Kiosk)
+
+[![The Verse of the Day board in Scripture Kiosk](docs/screenshot.jpg)](https://www.roblox.com/games/82686984547483/Scripture-Kiosk)
+
+This repository is the source for a live, public Roblox experience. Try it
+first, then read how it works.
+
 A small Roblox experience that reads the Bible from the
 [YouVersion Platform](https://platform.youversion.com) API. It has two parts:
 
