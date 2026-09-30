@@ -1,0 +1,11 @@
+.DS_Store
+build/
+*.rbxl
+*.rbxlx
+.env
+.env.*
+!.env.example
+dev-secrets.luau
+node_modules/
+.claude/settings.local.json
+.contract-tmp/
